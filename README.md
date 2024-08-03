@@ -1,6 +1,6 @@
 # ETHEREUM-PRICE-PREDICTION-USING-RBF-REGRESSION-MODEL
 
-# Ethereum Price Prediction Using MLP(Multilayer perceptron) Regression Models
+# Ethereum Price Prediction Using RBF Regression Models
 
 
 
